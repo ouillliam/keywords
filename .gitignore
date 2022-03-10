@@ -1,6 +1,6 @@
 Scripts/
 Include/
 Lib/
-pyenv.cfg
+pyvenv.cfg
 src/__pycache__/
-src/chromedriver_win32
+src/chromedriver_win32/
